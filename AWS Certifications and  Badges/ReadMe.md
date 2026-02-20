@@ -1,8 +1,8 @@
 # ☁️ AWS Cloud Portfolio | Technical Labs & Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified--Cloud--Practitioner-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Africonology-Solutions-blue?style=for-the-badge" />
+ 
+ 
 </p>
 
 ## 🏆 Official Certification
