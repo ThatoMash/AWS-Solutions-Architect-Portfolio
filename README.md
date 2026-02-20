@@ -1,129 +1,78 @@
+<div align="center">
+  <div style="background-color:#232F3E; padding:20px; display:inline-block; border-radius:15px; border: 2px solid #FF9900;">
+    <a href="https://www.linkedin.com/in/thatomash/" target="_blank">
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQHV0YK27HBDCA/profile-displayphoto-crop_800_800/B4DZjCQxpHH0AM-/0/1755605836772?e=1766620800&v=beta&t=l1aOLgvdV5cYbmrRkZDBDKXHIVOo6TEjeAao6bX51oE" style="width:180px; height:180px; border-radius:50%; border: 4px solid #FF9900;">
+    </a>
+  </div>
 
+  #  AWS Certified Cloud Practitioner Portfolio
+  **Thato Mashimbi** *Cloud Practitioner @ Africonology Solutions*
+
+  [![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.linkedin.com/in/thatomash/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thatomash/)
 </div>
-<div style="background-color:#1e90ff; padding:20px; display:flex; justify-content:center; align-items:center; border-radius:10px; width:max-content;">
-  <a href="https://www.linkedin.com/in/thatomash/" target="_blank" style="display:block;">
-    <img src="https://media.licdn.com/dms/image/v2/D4D03AQHV0YK27HBDCA/profile-displayphoto-crop_800_800/B4DZjCQxpHH0AM-/0/1755605836772?e=1766620800&v=beta&t=l1aOLgvdV5cYbmrRkZDBDKXHIVOo6TEjeAao6bX51oE" style="width:200px; height:auto; border-radius:50%;">
-  </a>
+
+---
+
+##  About Me
+I am a **Certified AWS Cloud Practitioner** passionate about building secure, scalable, and cost-effective cloud solutions. Having successfully completed the **Praesignis AWS re/Start** program, I am currently applying my expertise at **Africonology Solutions**. 
+
+This repository documents my professional journey, technical projects, and hands-on laboratory work within the Amazon Web Services ecosystem.
+
+---
+
+##  Technical Skill Set
+
+### **AWS Core Services**
+* **Compute:** EC2, Lambda, Auto Scaling
+* **Storage:** S3 (Simple Storage Service), EBS (Elastic Block Store)
+* **Networking:** VPC, Route 53, CloudFront
+* **Databases:** RDS, DynamoDB
+* **Security:** IAM (Identity & Access Management), Security Groups, MFA
+
+### **Additional Technologies**
+* **OS/Scripting:** Linux (Bash), Python
+* **Architecture:** Well-Architected Framework, 3D Cloud Design
+
+---
+
+##  Portfolio Projects & Labs
+
+### [🚀 Projects Overview](AWS%20Projects/)
+
+* **Static Website Hosting:** Deployed a highly available website using S3 and CloudFront. (Completed: Nov 28)
+* **3D Cloud Architecture:** Designed resilient multi-tier infrastructure diagrams. (Completed: Dec 5)
+* **AWS Lex Bot:** Building conversational AI interfaces with Lambda integration. (In Progress)
+
+### [🧪 Hands-on Lab Documentation](AWS%20Labs/)
+I have documented 2+ labs for every core module to demonstrate practical implementation:
+- **Compute:** Deploying virtual servers and serverless functions.
+- **Networking:** Configuring secure VPC traffic and DNS routing.
+- **Storage/DB:** Managing durable data and relational database instances.
+
+---
+
+##  Learning Directory
+*  **[Organized Module Notes](AWS%20Services/)**
+*  **[Technical Resources](./Resources.md)**
+
+---
+
+##  Contact Information
+
+*  **Email:** [Thatomashimbi@gmail.com](mailto:Thatomashimbi@gmail.com)
+*  **Phone:** 079 797 3774
+*  **LinkedIn:** [linkedin.com/in/thatomash](https://www.linkedin.com/in/thatomash/)
+*  **GitHub:** You're looking at it!
+
+---
+
+<div align="center">
+  <i>"Learning one cloud service at a time, building the future of infrastructure."</i>
 </div>
 
 
-#  AWS Cloud Practitioner Journey
-
-Welcome to my AWS Cloud Practitioner learning repository!  
 
 
- I’m **Thato Mashimbi**, an aspiring **AWS Cloud Practitioner** passionate about cloud computing and continuous learning.  
-I’m exploring how AWS services work together to build secure, scalable, and cost-effective solutions in the cloud.  
-This space documents my progress, notes, and hands-on labs as I build my foundational skills in **Amazon Web Services (AWS)**.
-
-##  What You’ll Find Here
-
--  **[Organized Notes by Module](AWS%20Services/)**  
--  **[Hands-on Lab Documentation](AWS%20Labs/)**  
--  **[Helpful Learning Resources](./Resources.md)**  
-
----
-
-## Modules Covered
-
-##  AWS Core Services Explained
-
-### [Compute](AWS%20Services/Module%202:%20AWS%20Compute%20Services)
-
-* Compute is the processing power for applications.
-* Examples I worked with: EC2 (virtual servers), Lambda (serverless functions)
-* It is important because it determines app performance and scalability
-
-### [Networking](AWS%20Services/Module%205:%20AWS%20Networking%20and%20Content%20Delivery%20services)
-
-* Networking connects AWS resources securely.
-* Examples I used: VPC, Route 53
-* It is important because it controls traffic flow and resource communication
-
-### [Storage](AWS%20Services/Module%203:%20AWS%20Storage%20Services)
-
-* Storage is where I keep data, files, and backups.
-* Examples I used: S3, EBS
-* Storage is important because it provides durable, scalable storage for applications
-
-### [Databases](AWS%20Services/Module%204:%20AWS%20Database%20and%20Analytics%20services)
-
-* Databases store structured application data.
-* Examples I worked with: RDS, DynamoDB
-* They are important because they ensure fast, reliable data access for apps
-
-### [Security](AWS%20Services/Module%206:%20AWS%20Security%20services)
-
-* I used IAM to control access.
-* I learned about roles, policies, MFA, and basic encryption
-* Security is important because it protects resources and data
-
----
-
-##  Skills and Technologies
-
-### AWS Services
-
-* EC2
-* S3
-* RDS
-* Lambda
-* VPC
-* IAM
-
-### Other Skills
-
-* Linux
-* Python
-* Networking
-* Databases
-
----
-
-
-### [Projects Completed](AWS%20Projects/)
-
-### Static Website
-
-* Deadline: 28 November
-* I included screenshots and step explanations
-
-### 3D Architecture
-
-* Deadline: 5 December
-* I included architecture diagrams, AWS services explanations, and screenshots
-
-### AWS Lex Bot
-
-* TBD
-* I included intents, bot logic, and usage screenshots
-
----
-
-## Labs
-
-I completed a minimum of two labs per section (Compute, Storage, Networking, Databases) and documented each with clear explanations, screenshots, and reasoning for every step.
-
----
-
-## Contact Information
-
-* **Email:** [Thatomashimbi@gmail.com](mailto:Thatomashimbi@gmail.com)
-* **Phone:** 079 797 3774
-* **LinkedIn:** [https://www.linkedin.com/in/thato-p-mashimbi/](https://www.linkedin.com/in/thatomash/)
-* **GitHub:** I'm here!
-
----
-
-##  Goal
-
-To gain a solid understanding of AWS core services and prepare for the **AWS Certified Cloud Practitioner** certification exam.
-
----
-
-
-
-
- *Learning one cloud at a time!*
 
 
