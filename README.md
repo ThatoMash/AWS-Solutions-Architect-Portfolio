@@ -9,7 +9,7 @@
 
   # ☁️ AWS Certified Cloud Practitioner Portfolio
   ### **Thato Mashimbi**
-  **Cloud Practitioner | Africonology Solutions**
+  **Cloud Practitioner | 
 
   [![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.linkedin.com/in/thatomash/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thatomash/)
@@ -18,7 +18,7 @@
 ---
 
 ## 🚀 Professional Summary
-I am a **Certified AWS Cloud Practitioner** specializing in cloud infrastructure and security. Following the successful completion of the **Praesignis AWS re/Start** program, I am now a technical contributor at **Africonology Solutions**. This repository serves as a professional portfolio documenting my hands-on labs, architectural designs, and cloud service mastery.
+I am a **Certified AWS Cloud Practitioner** specializing in cloud infrastructure and security. Following the successful completion of the **Praesignis AWS re/Start** program,. This repository serves as a professional portfolio documenting my hands-on labs, architectural designs, and cloud service mastery.
 
 ---
 
