@@ -7,8 +7,7 @@
 
 ## 🏆 Official Certification
 <p align="center">
-  <img src="" width="700" alt="AWS Certified Cloud Practitioner - Thato Precious Mashimbi">
-</p>
+ 
 
 <img width="697" height="537" alt="image" src="https://github.com/user-attachments/assets/d333b88b-1cd5-44e0-810d-84ff76930745" />
 
