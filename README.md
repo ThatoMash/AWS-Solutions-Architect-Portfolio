@@ -15,7 +15,7 @@
 ---
 
 ##  About Me
-I am a **Certified AWS Cloud Practitioner** passionate about building secure, scalable, and cost-effective cloud solutions. Having successfully completed the **Praesignis AWS re/Start** program, I am currently applying my expertise at **Africonology Solutions**. 
+I am a **Certified AWS Cloud Practitioner** passionate about building secure, scalable, and cost-effective cloud solutions. Having successfully completed the **Praesignis AWS re/Start** program, I am currently applying doing Solutions architect program at **Africonology Solutions**. 
 
 This repository documents my professional journey, technical projects, and hands-on laboratory work within the Amazon Web Services ecosystem.
 
