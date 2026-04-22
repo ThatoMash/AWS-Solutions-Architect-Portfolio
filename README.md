@@ -7,129 +7,101 @@
     </a>
   </div>
 
-  # ☁️ AWS Certified Cloud Practitioner Portfolio
-  ### **Thato Mashimbi**
-  **Cloud Practitioner | 
+# AWS Solutions Architect Portfolio
 
-  [![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.linkedin.com/in/thatomash/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thatomash/)
+### Thato Mashimbi
+
+**AWS Certified Solutions Architect – Associate**
+
+
+
 </div>
 
 ---
 
-## 🚀 Professional Summary
-I am a **Certified AWS Cloud Practitioner** specializing in cloud infrastructure and security. Following the successful completion of the **Praesignis AWS re/Start** program,. This repository serves as a professional portfolio documenting my hands-on labs, architectural designs, and cloud service mastery.
+## Professional Summary
+
+I am an AWS Certified Solutions Architect – Associate with hands-on experience designing and deploying scalable, highly available, and fault-tolerant cloud architectures.
+
+This portfolio showcases real-world AWS projects and hands-on labs focused on high availability, secure VPC architecture design, serverless applications, and cost-optimized cloud solutions.
+
+All implementations align with the AWS Well-Architected Framework and reflect best practices used in modern cloud environments.
 
 ---
 
-## 🛠️ Technical Skill Set
+## Technical Skill Set
 
-### **Core AWS Services**
-* **Compute:** EC2, Lambda, Auto Scaling
-* **Storage:** S3, EBS, Glacier
-* **Networking:** VPC, Route 53, CloudFront
-* **Databases:** RDS (MySQL/PostgreSQL), DynamoDB
-* **Security:** IAM, Security Groups, AWS Shield
+### AWS Core Services
 
-### **DevOps & Tools**
-* **Languages:** Python, Bash Scripting
-* **OS:** Linux (Ubuntu/Amazon Linux)
-* **Design:** AWS Well-Architected Framework
+* Compute: EC2, Lambda, Auto Scaling
+* Storage: S3, EBS, Glacier
+* Networking: VPC, Route 53, CloudFront
+* Databases: RDS (MySQL/PostgreSQL), DynamoDB
+* Security: IAM, Security Groups, AWS Shield, MFA
 
----
+### DevOps and Tools
 
-## 📂 Featured Projects & Labs
-
-### [🚀 Explore All Projects](AWS%20Projects/)
-* **Static Website Hosting:** Global content delivery using S3 and CloudFront.
-* **Resilient Architecture:** High-availability 3D designs for fault-tolerant apps.
-* **AWS Lex Bot:** Conversational AI implementation (In Development).
-
-### [🧪 Hands-on Lab Logs](AWS%20Labs/)
-* Comprehensive documentation of **10+ technical labs** across Networking, Compute, and Storage. Each lab includes architectural reasoning and step-by-step implementation.
+* Languages: Python, Bash Scripting
+* Operating Systems: Linux (Ubuntu, Amazon Linux)
+* Design: AWS Well-Architected Framework
 
 ---
 
-## 📬 Connect With Me
+## Solutions Architect Projects
 
-* 📧 **Email:** [Thatomashimbi@gmail.com](mailto:Thatomashimbi@gmail.com)
-* 🔗 **LinkedIn:** [Thato Mashimbi](https://www.linkedin.com/in/thatomash/)
-* 💻 **GitHub:** Active Contributor
+### [Explore All Projects](AWS%20Projects/)
+
+* **Static Website Hosting**
+  Designed and deployed a globally distributed static website using Amazon S3 and CloudFront, optimized for low latency and high availability.
+
+* **Resilient Architecture Design**
+  Developed high-availability architecture models focusing on fault tolerance and scalability using multi-tier design principles.
+
+* **AWS Lex Bot (In Development)**
+  Building a conversational AI solution integrated with AWS Lambda for backend processing.
+
+---
+
+## Hands-on Lab Documentation
+
+### [View Lab Logs](AWS%20Labs/)
+
+Comprehensive hands-on labs aligned with AWS architecture domains:
+
+* Compute: Deploying EC2 instances and serverless applications
+* Networking: Designing and configuring secure VPC architectures
+* Storage and Databases: Managing durable storage and relational database systems
+* Security: Implementing IAM roles, policies, and access control mechanisms
+
+Each lab includes step-by-step implementation and architectural reasoning.
+
+---
+
+## Architecture Principles Applied
+
+* High Availability through Multi-AZ deployments
+* Fault Tolerance using Auto Scaling and Load Balancing
+* Scalability through elastic infrastructure design
+* Security using least privilege access and network isolation
+* Cost Optimization through efficient resource utilization
+
+---
+
+## Learning Directory
+
+* [Organized Module Notes](AWS%20Services/)
+* [Technical Resources](./Resources.md)
+
+---
+
+## Contact Information
+
+* Email: [Thatomashimbi@gmail.com](mailto:Thatomashimbi@gmail.com)
+* LinkedIn: [linkedin.com/in/thatomash](https://www.linkedin.com/in/thatomash/)
+* GitHub: Active repository
 
 ---
 
 <div align="center">
-  <i>"Committed to building scalable, secure, and cost-effective cloud solutions."</i>
+  <i>Designing scalable, secure, and resilient cloud architectures.</i>
 </div>
-
-  #  AWS Certified Cloud Practitioner Portfolio
-  **Thato Mashimbi** *Certified Cloud Practitioner 
-
-  [![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.linkedin.com/in/thatomash/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thatomash/)
-</div>
-
----
-
-##  About Me
-I am a **Certified AWS Cloud Practitioner** passionate about building secure, scalable, and cost-effective cloud solutions. Having successfully completed the **Praesignis AWS re/Start** program, I am currently applying doing Solutions architect program at **Africonology Solutions**. 
-
-This repository documents my professional journey, technical projects, and hands-on laboratory work within the Amazon Web Services ecosystem.
-
----
-
-##  Technical Skill Set
-
-### **AWS Core Services**
-* **Compute:** EC2, Lambda, Auto Scaling
-* **Storage:** S3 (Simple Storage Service), EBS (Elastic Block Store)
-* **Networking:** VPC, Route 53, CloudFront
-* **Databases:** RDS, DynamoDB
-* **Security:** IAM (Identity & Access Management), Security Groups, MFA
-
-### **Additional Technologies**
-* **OS/Scripting:** Linux (Bash), Python
-* **Architecture:** Well-Architected Framework, 3D Cloud Design
-
----
-
-##  Portfolio Projects & Labs
-
-### [🚀 Projects Overview](AWS%20Projects/)
-
-* **Static Website Hosting:** Deployed a highly available website using S3 and CloudFront. (Completed: Nov 28)
-* **3D Cloud Architecture:** Designed resilient multi-tier infrastructure diagrams. (Completed: Dec 5)
-* **AWS Lex Bot:** Building conversational AI interfaces with Lambda integration. (In Progress)
-
-### [🧪 Hands-on Lab Documentation](AWS%20Labs/)
-I have documented 2+ labs for every core module to demonstrate practical implementation:
-- **Compute:** Deploying virtual servers and serverless functions.
-- **Networking:** Configuring secure VPC traffic and DNS routing.
-- **Storage/DB:** Managing durable data and relational database instances.
-
----
-
-##  Learning Directory
-*  **[Organized Module Notes](AWS%20Services/)**
-*  **[Technical Resources](./Resources.md)**
-
----
-
-##  Contact Information
-
-*  **Email:** [Thatomashimbi@gmail.com](mailto:Thatomashimbi@gmail.com)
-*  **Phone:** 079 797 3774
-*  **LinkedIn:** [linkedin.com/in/thatomash](https://www.linkedin.com/in/thatomash/)
-*  **GitHub:** You're looking at it!
-
----
-
-<div align="center">
-  <i>"Learning one cloud service at a time, building the future of infrastructure."</i>
-</div>
-
-
-
-
-
-
