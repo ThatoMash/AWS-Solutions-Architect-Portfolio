@@ -69,6 +69,4 @@
 * **Automation:** Python Scripting, Bash, SQL.
 
 ---
-<p align="center">
-  <b>Current Professional Association: Africonology Solutions</b>
-</p>
+
