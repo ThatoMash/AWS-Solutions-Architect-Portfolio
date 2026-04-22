@@ -5,7 +5,7 @@
 
 ## Official Certifications
 
-<img width="703" height="531" alt="image" src="https://github.com/user-attachments/assets/e2c13ed6-6465-4984-ba38-b6f8e2ca7159" />
+    <img width="703" height="531" alt="image" src="https://github.com/user-attachments/assets/e2c13ed6-6465-4984-ba38-b6f8e2ca7159" />
 
 
 ### AWS Certified Solutions Architect – Associate
