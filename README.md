@@ -1,10 +1,8 @@
 <div align="center">
-  <div style="background-color:#232F3E; padding:20px; display:inline-block; border-radius:15px; border: 2px solid #FF9900;">
-    <a href="https://www.linkedin.com/in/thatomash/" target="_blank">
-      <img src="https://media.licdn.com/dms/image/v2/D4D03AQHWsvNZWF9sMA/profile-displayphoto-crop_800_800/B4DZufxqQlIAAI-/0/1767912155650?e=1773273600&v=beta&t=ngEWeNF-duHZude_JkBLMsofwaL9nZb7uujUdOUm8rE" 
-           alt="Thato Mashimbi" 
-           style="width:180px; height:180px; border-radius:50%; border: 4px solid #FF9900; object-fit: cover;"> </a>
-  </div>
+  <a href="https://www.linkedin.com/in/thatomash/">
+    <img src="images/profile.png" alt="Thato Mashimbi" width="180">
+  </a>
+</div>
 
 # AWS Solutions Architect Portfolio
 
