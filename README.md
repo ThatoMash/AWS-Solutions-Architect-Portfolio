@@ -1,8 +1,13 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/thatomash/">
-    <img src="profile.png" alt="Thato Mashimbi" width="200">
+    <img width="220" alt="Thato Mashimbi" src="https://github.com/user-attachments/assets/93a31578-559e-42e8-b6e1-092c7f62a520" />
   </a>
+
+  <h1>AWS Solutions Architect Portfolio</h1>
+  <h3>Thato Mashimbi</h3>
+  <p><b>AWS Certified Solutions Architect – Associate</b></p>
 </div>
+
 
 # AWS Solutions Architect Portfolio
 
