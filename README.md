@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/thatomash/">
-    <img src="images/profile.png" alt="Thato Mashimbi" width="180">
+    <img src="profile.png" alt="Thato Mashimbi" width="200">
   </a>
 </div>
 
