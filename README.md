@@ -3,8 +3,7 @@
     <a href="https://www.linkedin.com/in/thatomash/" target="_blank">
       <img src="https://media.licdn.com/dms/image/v2/D4D03AQHWsvNZWF9sMA/profile-displayphoto-crop_800_800/B4DZufxqQlIAAI-/0/1767912155650?e=1773273600&v=beta&t=ngEWeNF-duHZude_JkBLMsofwaL9nZb7uujUdOUm8rE" 
            alt="Thato Mashimbi" 
-           style="width:180px; height:180px; border-radius:50%; border: 4px solid #FF9900; object-fit: cover;">
-    </a>
+           style="width:180px; height:180px; border-radius:50%; border: 4px solid #FF9900; object-fit: cover;"> </a>
   </div>
 
 # AWS Solutions Architect Portfolio
